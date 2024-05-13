@@ -14,24 +14,8 @@
 <li><a href="https://github.com/Mestevam1976/Imersao_IA_Alura/blob/446e0206f9c9a03211ad0eeca8b6da7522df2a71/%5BImers%C3%A3o%20IA%202%C2%AA%20edi%C3%A7%C3%A3o%5D%20-%20Explorando%20os%20par%C3%A2metros%20do%20Google%20AI%20Studio%20-%20Aula%203.ipynb">Notebook Aula 03</a></li>
 <li><a href="https://github.com/Mestevam1976/Imersao_IA_Alura/blob/e28b48b5854b21948e828ee485e2ab36323683bf/ChatBot_Google_Gemini.ipynb">Notebook Aula 04</a></li>
 <li><a href='https://github.com/Mestevam1976/Imersao_IA_Alura/blob/5bd3f4f3f64e3a453ebdab638db6ab26738a7f39/%5BImersao_IA_2%C2%AA_ed_%5D_Criando_um_sistema_para_busca_em_documentos_usando_embeddings_e_a_Gemini_API.ipynb'>Notebook Aula 05</a></li>
-<!--
-<table border="2">
-    <tr>
-        <th>Gráfico de Contribuições</th>
-        <th>Linguagens Mais Usadas</th>
-        <th>GitHub Streak</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Mestevam1976&show_icons=true&theme=radical" alt="Estatísticas do GitHub" width="400"                     height="400">
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mestevam1976&layout=compact&theme=radical" alt="Linguagens mais usadas"                        width="300" height="300">
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_NOME_DE_USUARIO&theme=radical" alt="Streak Stats" width="420" height="420">
-        </td>
-    </tr>    
-</table> -->
+<hr>
+<li><b>Chatbot "Ajuda_AI" - projeto de participação na 2ª Ed. da Imersão em Inteligência Artificial da Alura - link (outro repositório):</b></li>
+<p align='center'><a href='https://github.com/Mestevam1976/Projeto_Imersao_Aula_4' target="_blank" rel="noopener noreferrer"><img src="https://st3.depositphotos.com/8950810/17657/v/450/depositphotos_176577870-stock-illustration-cute-smiling-funny-robot-chat.jpg" width=150 height=150><br>Clique Aqui</img></a></b></p>
 </body>
 </html>
